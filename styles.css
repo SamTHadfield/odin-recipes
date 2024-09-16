@@ -47,12 +47,17 @@ body {
   font-size: 24px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: center;
+  margin-bottom: 25px;
 }
 
 p {
   margin: 25px 0px 25px 0px;
 }
 
-.ingredients {
+.ingredients,
+.steps {
   color: #b99470;
+  display: inline-block;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 50px 500px 50px 500px;
 }
